@@ -1,0 +1,288 @@
+[[SOLAR]]
+arch = "aarch64"
+git-tree-sha1 = "1fe74436e040a2d040b12829883916b397a015b4"
+os = "macos"
+
+    [[SOLAR.download]]
+    sha256 = "a0cdf55a87e33d9178290551e8dc8e87d5c177c98a6064fe5ddc7a5ca241c95d"
+    url = "https://github.com/JuliaBinaryWrappers/SOLAR_jll.jl/releases/download/SOLAR-v0.3.0+0/SOLAR.v0.3.0.aarch64-apple-darwin.tar.gz"
+[[SOLAR]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "1245eda28ce42c4d07297cb1c9e7c8b6c4efd87a"
+libc = "glibc"
+os = "linux"
+
+    [[SOLAR.download]]
+    sha256 = "245d570fdf52658436fdc00b7d98677b025e592c214027d12a96ea1bb87c7de9"
+    url = "https://github.com/JuliaBinaryWrappers/SOLAR_jll.jl/releases/download/SOLAR-v0.3.0+0/SOLAR.v0.3.0.aarch64-linux-gnu-cxx03.tar.gz"
+[[SOLAR]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "8023bd0bdd3f389fb035a264ad4dea1865814e5e"
+libc = "glibc"
+os = "linux"
+
+    [[SOLAR.download]]
+    sha256 = "e5c49e526a9853d1b4aea83d017197a6d1fe7bf93213fbc75f0def7d935492f1"
+    url = "https://github.com/JuliaBinaryWrappers/SOLAR_jll.jl/releases/download/SOLAR-v0.3.0+0/SOLAR.v0.3.0.aarch64-linux-gnu-cxx11.tar.gz"
+[[SOLAR]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "3f4491a5360a3b19d7da90e25e25b3fcb12fe3be"
+libc = "musl"
+os = "linux"
+
+    [[SOLAR.download]]
+    sha256 = "43b6a087f4b048551c88cf7aeb784e7de6c69e6c16418f19d79589d37c2c4ade"
+    url = "https://github.com/JuliaBinaryWrappers/SOLAR_jll.jl/releases/download/SOLAR-v0.3.0+0/SOLAR.v0.3.0.aarch64-linux-musl-cxx03.tar.gz"
+[[SOLAR]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "d3d6b237b3b50955fa1158f377c480d7d8e2af16"
+libc = "musl"
+os = "linux"
+
+    [[SOLAR.download]]
+    sha256 = "76f5be5cc1725884b26dca90ecef02faef2080033c0baaa9711f25f46dbc1850"
+    url = "https://github.com/JuliaBinaryWrappers/SOLAR_jll.jl/releases/download/SOLAR-v0.3.0+0/SOLAR.v0.3.0.aarch64-linux-musl-cxx11.tar.gz"
+[[SOLAR]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "189989e234a4b438339dcf1b53c1538bdd72afca"
+libc = "glibc"
+os = "linux"
+
+    [[SOLAR.download]]
+    sha256 = "1cc92eb8656f42e39063a2d4de69b94af575403a74e231ae03c3e492d4bbb449"
+    url = "https://github.com/JuliaBinaryWrappers/SOLAR_jll.jl/releases/download/SOLAR-v0.3.0+0/SOLAR.v0.3.0.armv6l-linux-gnueabihf-cxx03.tar.gz"
+[[SOLAR]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "58686ed66c677180811a2c8aab8943f3327bd2db"
+libc = "glibc"
+os = "linux"
+
+    [[SOLAR.download]]
+    sha256 = "7e30b8aaa980c8ba8cff2658b059e3320c38283a79765884e9fbe84dd9585d46"
+    url = "https://github.com/JuliaBinaryWrappers/SOLAR_jll.jl/releases/download/SOLAR-v0.3.0+0/SOLAR.v0.3.0.armv6l-linux-gnueabihf-cxx11.tar.gz"
+[[SOLAR]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "b3420dfc88405bdddec165c57b7c697fc7444aaa"
+libc = "musl"
+os = "linux"
+
+    [[SOLAR.download]]
+    sha256 = "00decb51e0e419bbd901b8056d87a810a29e6aa2d9ca99a27369abb7a7ebcc4f"
+    url = "https://github.com/JuliaBinaryWrappers/SOLAR_jll.jl/releases/download/SOLAR-v0.3.0+0/SOLAR.v0.3.0.armv6l-linux-musleabihf-cxx03.tar.gz"
+[[SOLAR]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "a742fe5e130bb710bd49c9521d080f087dea7441"
+libc = "musl"
+os = "linux"
+
+    [[SOLAR.download]]
+    sha256 = "8bfc3abe9a806ebd8be16f99028cc1a6fa787cc3a9015cb93781bf0f88b6ae50"
+    url = "https://github.com/JuliaBinaryWrappers/SOLAR_jll.jl/releases/download/SOLAR-v0.3.0+0/SOLAR.v0.3.0.armv6l-linux-musleabihf-cxx11.tar.gz"
+[[SOLAR]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "48376137a6986ce0443be7b7467a2f8f922e770a"
+libc = "glibc"
+os = "linux"
+
+    [[SOLAR.download]]
+    sha256 = "8e2c0c39ec37d4a19ca873b5206185497b16379f3aabad263fdab221995d5d14"
+    url = "https://github.com/JuliaBinaryWrappers/SOLAR_jll.jl/releases/download/SOLAR-v0.3.0+0/SOLAR.v0.3.0.armv7l-linux-gnueabihf-cxx03.tar.gz"
+[[SOLAR]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "284e2ee06771c7271f49227cdd1af60ee8d4efc1"
+libc = "glibc"
+os = "linux"
+
+    [[SOLAR.download]]
+    sha256 = "1d607b23c4282ad0f48de2f9550175cb350591708ec7f83d4a3ddb6952130f1c"
+    url = "https://github.com/JuliaBinaryWrappers/SOLAR_jll.jl/releases/download/SOLAR-v0.3.0+0/SOLAR.v0.3.0.armv7l-linux-gnueabihf-cxx11.tar.gz"
+[[SOLAR]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "f7eb1629cc85f109d6515cbbafd75cd045eb9bb8"
+libc = "musl"
+os = "linux"
+
+    [[SOLAR.download]]
+    sha256 = "6b72ade4c98b6fc5e157992bc459e566ade4fcf14282bdaf85efad03b2cab69f"
+    url = "https://github.com/JuliaBinaryWrappers/SOLAR_jll.jl/releases/download/SOLAR-v0.3.0+0/SOLAR.v0.3.0.armv7l-linux-musleabihf-cxx03.tar.gz"
+[[SOLAR]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "d25642b58f9a35669c9569fa83f9952a894c25a2"
+libc = "musl"
+os = "linux"
+
+    [[SOLAR.download]]
+    sha256 = "6d6a63a7f14afb1a6edf5e882189b257a07e3ec30e9e551b9b0f9306685fa263"
+    url = "https://github.com/JuliaBinaryWrappers/SOLAR_jll.jl/releases/download/SOLAR-v0.3.0+0/SOLAR.v0.3.0.armv7l-linux-musleabihf-cxx11.tar.gz"
+[[SOLAR]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "e84d290dcc64d0511500fe0aa6ceeb4869e37bcc"
+libc = "glibc"
+os = "linux"
+
+    [[SOLAR.download]]
+    sha256 = "5857a263e366ee327be6bf56dfc2d8647711ba091a65d80891937116f4928993"
+    url = "https://github.com/JuliaBinaryWrappers/SOLAR_jll.jl/releases/download/SOLAR-v0.3.0+0/SOLAR.v0.3.0.i686-linux-gnu-cxx03.tar.gz"
+[[SOLAR]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "93ba0430df52d9f396922e578598adba079952eb"
+libc = "glibc"
+os = "linux"
+
+    [[SOLAR.download]]
+    sha256 = "5f0bbcb5adc7c5dbffaa61b38c2c9c79284e661a70cd2aadb2d90b2631e4c23d"
+    url = "https://github.com/JuliaBinaryWrappers/SOLAR_jll.jl/releases/download/SOLAR-v0.3.0+0/SOLAR.v0.3.0.i686-linux-gnu-cxx11.tar.gz"
+[[SOLAR]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "0e9140b5c48df99f3429ada5dc6ed6deae2997ae"
+libc = "musl"
+os = "linux"
+
+    [[SOLAR.download]]
+    sha256 = "6c32254227ac7052ba2f3616a97f0f138308a3ca64d4b68cdc6ea318539ef981"
+    url = "https://github.com/JuliaBinaryWrappers/SOLAR_jll.jl/releases/download/SOLAR-v0.3.0+0/SOLAR.v0.3.0.i686-linux-musl-cxx03.tar.gz"
+[[SOLAR]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "888053326809ad801625994e32671ff109c24cc6"
+libc = "musl"
+os = "linux"
+
+    [[SOLAR.download]]
+    sha256 = "fa9c802bb0d75c448ec939912a728a5791eed389185f82bbc0a7afe77705d027"
+    url = "https://github.com/JuliaBinaryWrappers/SOLAR_jll.jl/releases/download/SOLAR-v0.3.0+0/SOLAR.v0.3.0.i686-linux-musl-cxx11.tar.gz"
+[[SOLAR]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "e2df3f7d0f87bb5848733f0668614a25c7d78211"
+os = "windows"
+
+    [[SOLAR.download]]
+    sha256 = "2ebcbda73bc1ad0c3424b073fdb3bfb84ba172329f99ab78d13eb1543ba3f1d1"
+    url = "https://github.com/JuliaBinaryWrappers/SOLAR_jll.jl/releases/download/SOLAR-v0.3.0+0/SOLAR.v0.3.0.i686-w64-mingw32-cxx03.tar.gz"
+[[SOLAR]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "421f127dea18c57d92adee825bfd8f66c2dbe571"
+os = "windows"
+
+    [[SOLAR.download]]
+    sha256 = "28d2252c5c0e2c4dbb5811886155e02aee46d5a333b45ef64f3b508618c70645"
+    url = "https://github.com/JuliaBinaryWrappers/SOLAR_jll.jl/releases/download/SOLAR-v0.3.0+0/SOLAR.v0.3.0.i686-w64-mingw32-cxx11.tar.gz"
+[[SOLAR]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "9a0930859bf3980571eb840f339b73d6497b267f"
+libc = "glibc"
+os = "linux"
+
+    [[SOLAR.download]]
+    sha256 = "49e74f0a12fee0ccb4154ab2f99afa58db5413d06f8eb950959a82fb94e5a98b"
+    url = "https://github.com/JuliaBinaryWrappers/SOLAR_jll.jl/releases/download/SOLAR-v0.3.0+0/SOLAR.v0.3.0.powerpc64le-linux-gnu-cxx03.tar.gz"
+[[SOLAR]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "ff88894962a591b86bc988b63769ca7b0ea272e3"
+libc = "glibc"
+os = "linux"
+
+    [[SOLAR.download]]
+    sha256 = "46913fc4c8aee8b77f854d28ccb8c00889fd3aa3db0a315d612d0bdd5ebe3bd9"
+    url = "https://github.com/JuliaBinaryWrappers/SOLAR_jll.jl/releases/download/SOLAR-v0.3.0+0/SOLAR.v0.3.0.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[SOLAR]]
+arch = "x86_64"
+git-tree-sha1 = "20dd15e06c53e02a69ed4348baae8afef2512977"
+os = "macos"
+
+    [[SOLAR.download]]
+    sha256 = "c9c058ac5917bfc2b2ef87d676f2221339299a2d18f9e34c75187f35b2b5d1b6"
+    url = "https://github.com/JuliaBinaryWrappers/SOLAR_jll.jl/releases/download/SOLAR-v0.3.0+0/SOLAR.v0.3.0.x86_64-apple-darwin.tar.gz"
+[[SOLAR]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "6a1b2abe9b9f660c1f8ad84a4fbe84f46073f0ae"
+libc = "glibc"
+os = "linux"
+
+    [[SOLAR.download]]
+    sha256 = "639fa5b2cebfe8fdebf520c6c8a97b5fe0d244a9a82c5beb6ec818ef943a8e5b"
+    url = "https://github.com/JuliaBinaryWrappers/SOLAR_jll.jl/releases/download/SOLAR-v0.3.0+0/SOLAR.v0.3.0.x86_64-linux-gnu-cxx03.tar.gz"
+[[SOLAR]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "6f4d31787d02bfd63a982fddcabf36212b584b74"
+libc = "glibc"
+os = "linux"
+
+    [[SOLAR.download]]
+    sha256 = "81da36fa05274f6cf035501365e38d24ed5d6112276317af49842624d26a0805"
+    url = "https://github.com/JuliaBinaryWrappers/SOLAR_jll.jl/releases/download/SOLAR-v0.3.0+0/SOLAR.v0.3.0.x86_64-linux-gnu-cxx11.tar.gz"
+[[SOLAR]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "f5b8d04ee5b50959b99c1eb772ec3ec9c7638cf9"
+libc = "musl"
+os = "linux"
+
+    [[SOLAR.download]]
+    sha256 = "2b446049715ece528607745821846dd90e77ff638d5f6c297d96a09b66089338"
+    url = "https://github.com/JuliaBinaryWrappers/SOLAR_jll.jl/releases/download/SOLAR-v0.3.0+0/SOLAR.v0.3.0.x86_64-linux-musl-cxx03.tar.gz"
+[[SOLAR]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "21f86ca174c73b3f24e6786f14337187e4244ce9"
+libc = "musl"
+os = "linux"
+
+    [[SOLAR.download]]
+    sha256 = "a21692d37b84c7f287fc1ae1c2d62f56bb95e3ccf40adb5d1af009c1b9d58910"
+    url = "https://github.com/JuliaBinaryWrappers/SOLAR_jll.jl/releases/download/SOLAR-v0.3.0+0/SOLAR.v0.3.0.x86_64-linux-musl-cxx11.tar.gz"
+[[SOLAR]]
+arch = "x86_64"
+git-tree-sha1 = "9ae60c1602784ce402af99552d3830550344517a"
+os = "freebsd"
+
+    [[SOLAR.download]]
+    sha256 = "675866d6dfcd0c7aaedd020df3408b2a951cd6a7096feca23fa781cc37578e66"
+    url = "https://github.com/JuliaBinaryWrappers/SOLAR_jll.jl/releases/download/SOLAR-v0.3.0+0/SOLAR.v0.3.0.x86_64-unknown-freebsd.tar.gz"
+[[SOLAR]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "24791f2c33012d7fd174b11b9f191567b88da831"
+os = "windows"
+
+    [[SOLAR.download]]
+    sha256 = "83b1ed960261c505be2a6d667260c65ddb32e60eb12a672916a5c45f24f12d40"
+    url = "https://github.com/JuliaBinaryWrappers/SOLAR_jll.jl/releases/download/SOLAR-v0.3.0+0/SOLAR.v0.3.0.x86_64-w64-mingw32-cxx03.tar.gz"
+[[SOLAR]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "f0e5a904ff8da67b0d6b056350d5083bcb62fb83"
+os = "windows"
+
+    [[SOLAR.download]]
+    sha256 = "7a2500fdc6ca2c45748a444b4a5a01c020bd0e70b61237c45fdc028bbba23536"
+    url = "https://github.com/JuliaBinaryWrappers/SOLAR_jll.jl/releases/download/SOLAR-v0.3.0+0/SOLAR.v0.3.0.x86_64-w64-mingw32-cxx11.tar.gz"
